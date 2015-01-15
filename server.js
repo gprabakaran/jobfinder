@@ -12,7 +12,6 @@ app.set('view engine','jade');
 
 app.use(express.static(__dirname + '/public'));
 
-
 //mongoose.connect('mongodb://localhost/jobfinder');
 mongoose.connect('mongodb://job:123prabha@ds031591.mongolab.com:31591/jobfinder');
 
