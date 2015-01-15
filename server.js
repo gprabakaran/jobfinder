@@ -3,7 +3,7 @@
  */
 var express = require('express');
 var mongoose = require('mongoose');
-var jobmodel = require('./models/Job');
+var jobmodel = require('./models/job');
 
 var app = express();
 
