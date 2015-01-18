@@ -9,11 +9,13 @@
   "author": "Prabakaran Gopal",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^2.6.4",
     "express": "^4.10.7",
     "jade": "^1.8.2",
     "mongoose": "^3.8.21"
   },
   "devDependencies": {
-    "bower": "^1.3.12"
+    "bower": "^1.3.12",
+    "chai": "^1.10.0"
   }
 }
